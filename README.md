@@ -4,7 +4,7 @@
 **Csapattagok:** Ujhelyi Zsombor, Szabó Márk, Tóth Lajos  
 **Iskola:** Váci SZC Boronkay György Műszaki Technikum és Gimnázium  
 **Felkészítő tanárok:** Gyombolai Ferenc Péter, Gyombolainé Cserny Zsuzsanna, Kemenes Tamás, Wiezl Csaba  
-**Email cím:** ujhelyi.zsombor2008@tanulo.boronkay.hu  
+**Email cím:** ujhelyi.zsombor@guruz.hu
 **Fejlesztői környezet:** Visual Studio Code  
 **Verzió:** 1.69.2  
 
